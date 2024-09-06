@@ -87,7 +87,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="App-header">
       <h1>Invoice Generator</h1>
       <form onSubmit={handleSubmit}>
         <h2>Seller Details</h2>
